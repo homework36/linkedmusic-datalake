@@ -1,6 +1,6 @@
 ## quick procedures to configure Elasticsearch and Kibana locally
 
-This document contains steps to install and configure Elasticsearch and Kibana on [docker desktop](https://www.docker.com/products/docker-desktop/) (tested on both Windows and Mac OS), with minimum setting. We do not follow the official documentation for a quick start with basic functions.
+This document contains steps to install and configure Elasticsearch and Kibana on [docker desktop](https://www.docker.com/products/docker-desktop/) (tested on both Windows and Mac OS). We do not follow the official documentation and only do the minimum configuration for a quick start.
 
 With docker desktop running, do the following steps. Commands should be executed in a terminal.
 
