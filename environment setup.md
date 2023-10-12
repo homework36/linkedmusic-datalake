@@ -61,7 +61,7 @@ Run the following command in terminal first:
 docker inspect elastic
 ```
 
-Get the *IPv4Address* for container *es01*. For example, *172.18.0.2/16*.
+Get the *IPv4Address* for container *es01*. For example, `172.18.0.2/16`.
 
 Go to [http://localhost:5601/](http://localhost:5601/).
 
